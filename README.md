@@ -2,7 +2,7 @@
 
 ### Description
 
-Repository link: https://github.com/h-y-vivien/CA-2-Project
+Repository link: https://github.com/aoifemurph1/Data-analysis
 
 This project is data analysis project created as a submission for module in the postgraduate course "Data Analytics" at Dublin Business School. The objective of assignment is to aquire, pre-process and analyze data. It is up to the students which methods are used to reach the objectives as long as Python is used for the assignment.
 If not specified in the notebook files or on this file, then the work was done by the author.
